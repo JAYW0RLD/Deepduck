@@ -98,7 +98,7 @@ We provide **Security Audit Services** utilizing the full capabilities of Deepdu
 If you represent an organization and wish to:
 -   Request a Proof of Concept (PoC).
 -   Schedule a Penetration Test.
--   Discuss Enterprise Licensing.
+-   Discuss Strategic Partnerships.
 
 **Contact us at:** `---@gmail.com` (Email placeholder)
 
