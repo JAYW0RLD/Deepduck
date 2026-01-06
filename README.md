@@ -63,48 +63,24 @@ Generates comprehensive Markdown reports detailing:
 
 ---
 
-## 🔒 Security & Core Logic
-**Note:** Some core modules regarding the **Prompt Engineering** and **Cortex Logic** are purposely redacted or omitted in the public release to prevent abuse by malicious actors (`Script Kiddies`).
+## 🔒 Architecture Note
 
-This repository contains the framework skeleton and safe standard modules. The core "Brain" logic is available only to authorized enterprise partners.
-
----
-
-## 🏆 Achievements & Benchmarks
-We track our system's performance against known vulnerable apps (e.g., testphp.vulnweb.com, OWASP Juice Shop).
-
-👉 **[View ACHIEVEMENTS.md](./ACHIEVEMENTS.md)** (Performance Metrics)
+This repository serves as a **technical showcase** of the Deepduck framework. While the core "Brain" logic (proprietary prompt engineering & decision models) is maintained in a private repository for security reasons, this codebase demonstrates the agentic workflow and modular system design.
 
 ---
 
-## 📥 Installation & Usage
+## 🏆 Achievements & Field Operations
 
-### Prerequisites
--   Python 3.10+
--   Chrome & ChromeDriver (for Headless Browser)
--   Valid API Keys (OpenAI / Anthropic / Solar)
+Deepduck is not just a lab experiment. It is actively deployed in:
+-   **Private Bug Bounty Programs**: Continuously scanning authorized targets for critical vulnerabilities.
+-   **High-Security Challenges**: Participating in rigorous test environments (e.g., U.S. DoD Vulnerability Disclosure Programs).
+-   **Benchmark Targets**: Consistently outperforming traditional scanners on standard testbeds like `testphp.vulnweb.com`.
 
-### Setup
-```bash
-# Clone the repository
-git clone https://github.com/your-username/deepduck.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your API keys
-```
-
-### Running the Engine
-```bash
-python main.py explore https://target.com --mode normal
-```
+👉 **[View ACHIEVEMENTS.md](./ACHIEVEMENTS.md)** (Performance Metrics & Case Studies)
 
 ---
 
-## 🤝 Contribution & Sponsorship
+## 🤝 Sponsorship & Business
 
 ### 🚫 Contribution Policy
 **We are NOT accepting code contributions or Pull Requests at this time.**
@@ -115,14 +91,14 @@ If you believe in the future of Autonomous Security Agents, consider organizing 
 
 ---
 
-## 📧 Contact & Business
+## 📧 Contact & Services
 
-We provide **Security Audit Services** utilizing the full capabilities of Deepduck (Unrestricted Version).
+We provide **Security Audit Services** utilizing the full capabilities of Deepduck (Enterprise Version).
 
 If you represent an organization and wish to:
 -   Request a Proof of Concept (PoC).
 -   Schedule a Penetration Test.
--   discuss Enterprise Licensing.
+-   Discuss Enterprise Licensing.
 
 **Contact us at:** `---@gmail.com` (Email placeholder)
 
